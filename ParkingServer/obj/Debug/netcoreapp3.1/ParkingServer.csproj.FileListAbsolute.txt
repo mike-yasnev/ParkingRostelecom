@@ -1,0 +1,16 @@
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.exe
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.deps.json
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.runtimeconfig.json
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.runtimeconfig.dev.json
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.dll
+C:\_ranger\ParkingRostelecom\ParkingServer\bin\Debug\netcoreapp3.1\ParkingServer.pdb
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.csprojAssemblyReference.cache
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.MainForm.resources
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.csproj.GenerateResource.cache
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.AssemblyInfoInputs.cache
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.AssemblyInfo.cs
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.csproj.CoreCompileInputs.cache
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.dll
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.pdb
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.genruntimeconfig.cache
+C:\_ranger\ParkingRostelecom\ParkingServer\obj\Debug\netcoreapp3.1\ParkingServer.Properties.Resources.resources

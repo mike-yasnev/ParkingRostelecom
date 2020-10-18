@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ParkingServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResultFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\_ranger\network\yolov3-tf2\result\</Value>
+    </Setting>
+    <Setting Name="MonitorFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\_ranger\network\yolov3-tf2\data\parking.png</Value>
+    </Setting>
+    <Setting Name="ArchiveFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\_ranger\network\yolov3-tf2\archive\</Value>
+    </Setting>
+    <Setting Name="InputFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\_ranger\network\yolov3-tf2\input\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

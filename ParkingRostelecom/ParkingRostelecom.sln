@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingRostelecom", "ParkingRostelecom\ParkingRostelecom.csproj", "{5DB8D577-3243-4D40-BFFC-55B57ADCD99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingServer", "..\ParkingServer\ParkingServer.csproj", "{694788BF-1393-42A7-8ABA-8B1C811B658D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB8D577-3243-4D40-BFFC-55B57ADCD99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB8D577-3243-4D40-BFFC-55B57ADCD99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB8D577-3243-4D40-BFFC-55B57ADCD99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB8D577-3243-4D40-BFFC-55B57ADCD99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694788BF-1393-42A7-8ABA-8B1C811B658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694788BF-1393-42A7-8ABA-8B1C811B658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694788BF-1393-42A7-8ABA-8B1C811B658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694788BF-1393-42A7-8ABA-8B1C811B658D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8F2241-51B8-47A5-8085-7ED27C6A520E}
+	EndGlobalSection
+EndGlobal
