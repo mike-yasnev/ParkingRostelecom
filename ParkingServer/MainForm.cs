@@ -79,14 +79,22 @@ namespace ParkingServer
                 ParkingView.Image = new Bitmap(imagePath);
             }
 
+            List<DetectedObject> objList = new List<DetectedObject>();
+
             using (StreamReader file = new StreamReader(e.FullPath))
             {              
                 string ln;
                 while ((ln = file.ReadLine()) != null)
                 {
-                    // to do process boxes                
+                    DetectedObject obj = ObjectDetectionFactory.CreateObject(ln);
+                    if(obj != null)
+                    {
+                        objList.Add(obj);
+                    }
                 }
             }
+
+
 
         }
 
